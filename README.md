@@ -15,3 +15,5 @@ I am brr company.
 ---------------------
 我是分支dev上的修改
 ---------------------
+
+Creating a new branch is quick & simple.
